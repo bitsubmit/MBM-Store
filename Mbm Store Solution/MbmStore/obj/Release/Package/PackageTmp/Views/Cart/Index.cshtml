@@ -1,0 +1,59 @@
+﻿@model MbmStore.ViewModels.CartIndexViewModel
+@{
+    ViewBag.Title = "MusicBookMovieStore: Your Cart";
+    <head>
+        <link rel="stylesheet" type="text/css" href="~/Content/css/reset.css" />
+        <link rel="stylesheet" type="text/css" href="~/Content/css/style.css" />
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <meta name="viewport" content="width=device-width" />
+        <title>Cart</title>
+    </head>
+}
+<div class="wrapper">
+    <h2>Your cart</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Quantity</th>
+                <th>Item</th>
+                <th class="text-right">Price</th>
+                <th class="text-right">Subtotal</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var line in Model.Cart.CartLines)
+            {
+                <tr>
+                    <td class="text-center">@line.Quantity</td>
+                    <td class="text-left">@line.Product.Title</td>
+                    <td class="text-right">@line.Product.Price.ToString("n")</td>
+                    <td class="text-right">
+                        @((line.Quantity * line.Product.Price).ToString("n"))
+                    </td>
+                    <td>
+                        @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                        {
+                            @Html.Hidden("ProductId", line.Product.ProductId)
+                            @Html.HiddenFor(x => x.ReturnUrl)
+                            <input class="btn btn-sm btn-warning"
+                                   type="submit" value="Remove" />
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3" class="text-right">Total:</td>
+                <td class="text-right">
+                    @Model.Cart.TotalPrice.ToString("n")
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+    <div class="text-center">
+        <a class="btn btn-primary" href="@Model.ReturnUrl">Continue shopping</a>
+    </div>
+</div>

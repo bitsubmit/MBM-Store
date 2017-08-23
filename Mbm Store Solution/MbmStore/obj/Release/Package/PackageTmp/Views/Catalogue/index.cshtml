@@ -1,0 +1,92 @@
+﻿@using MbmStore.Models
+@using MbmStore.Infrastructure;
+@using MbmStore.HtmlHelpers;
+@model MbmStore.ViewModels.ProductsListViewModel
+@{
+    ViewBag.Title = "Index";
+}
+@using (Html.BeginForm("Index", "Cart"))
+{
+    @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+    <input type="submit" class="btn btn-success" value="View Cart" />
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="~/Content/css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/css/style.css" />
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <meta name="viewport" content="width=device-width" />
+    <title>Catalogue</title>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="left">
+
+            @if (Model.Products.OfType<MusicCD>().Count() > 0)
+            {
+                <h2>CD's:</h2>
+
+                foreach (MusicCD musiccd in Model.Products.OfType<MusicCD>().ToList())
+                {
+                    @Html.Partial("ProductSummaryCD", musiccd);
+                    <br />
+                }
+            }
+
+        </div>
+
+
+
+        <div class="right">
+            @if (Model.Products.OfType<Book>().Count() > 0)
+            {
+                <h2>Books:</h2>
+
+                foreach (Book book in Model.Products.OfType<Book>
+                    ().ToList())
+                {
+                    @Html.Partial("ProductSummaryBook", book);
+                    <br />
+                }
+            }
+        </div>
+
+
+        <div class="right2">
+            @if (Model.Products.OfType<Movie>().Count() > 0)
+            {
+                <h2>Movies:</h2>
+
+                foreach (Movie movie in Model.Products.OfType<Movie>
+                ().ToList())
+                {
+                    @Html.Partial("ProductSummaryMovie", movie);
+                    <br />
+                }
+            }
+        </div>
+
+
+
+
+        <div>
+            @Html.PageLinks(Model.PagingInfo, x => Url.Action("Index", new
+      {
+          page = x,
+          category =
+        Model.CurrentCategory
+      }))
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>

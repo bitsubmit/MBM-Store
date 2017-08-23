@@ -1,0 +1,61 @@
+﻿@using MbmStore.Models
+@{
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="~/Content/css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/css/style.css" />
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width" />
+    <title>Invoice</title>
+</head>
+<body>
+    <div class="wrapper">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th><h3>Customer:</h3></th>
+                    <th><h3>Product:</h3></th>
+                    <th><h3>Price:</h3></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Invoice i in ViewBag.Invoices)
+            {
+                    <tr>
+                        <td>@i.Customer.Firstname @i.Customer.Lastname</td>
+
+                        <td>
+                            @foreach (OrderItem o in i.OrderItems)
+                            {
+                                @o.Product.Title<br />
+                            }
+                        </td>
+
+                        <td>
+                            @foreach (OrderItem o in i.OrderItems)
+                        {
+                            @o.Product.Price <span>kr. </span> <br />
+                        }
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><b>Total Price: </b></td>
+                    <td>@i.GetTotalPrice() <span>kr. </span></td>
+
+
+                </tr>
+
+                }
+
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

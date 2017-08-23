@@ -1,0 +1,198 @@
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\csc.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\vbc.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\MbmStore.dll.config
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\MbmStore.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\MbmStore.pdb
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Helpers.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Mvc.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Razor.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Razor.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Helpers.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Mvc.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\obj\Debug\MbmStore.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_solution\MbmStore\obj\Debug\MbmStore.pdb
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\csc.exe
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\vbc.exe
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\MbmStore.dll.config
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\MbmStore.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\MbmStore.pdb
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Helpers.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Mvc.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Razor.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Razor.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Helpers.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Mvc.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\obj\Debug\MbmStore.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Lesson02_MbmStore_solution\MbmStore\obj\Debug\MbmStore.pdb
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\csc.exe
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\vbc.exe
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\MbmStore.dll.config
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\MbmStore.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\MbmStore.pdb
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Helpers.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Mvc.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Razor.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Razor.xml
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.xml
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Helpers.xml
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\bin\System.Web.Mvc.xml
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\obj\Debug\MbmStore.dll
+C:\Users\simon\Desktop\Projects\Lesson02_MbmStore_solution\MbmStore\obj\Debug\MbmStore.pdb
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\roslyn\csc.exe
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\roslyn\vbc.exe
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\MbmStore.dll.config
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\MbmStore.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\MbmStore.pdb
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Helpers.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Mvc.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Razor.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Razor.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Helpers.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Mvc.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\obj\Debug\MbmStore.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\Mbm Store Solution\MbmStore\obj\Debug\MbmStore.pdb
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\roslyn\csc.exe
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\roslyn\vbc.exe
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\MbmStore.dll.config
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\MbmStore.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\MbmStore.pdb
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Helpers.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Mvc.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Razor.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Razor.xml
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.xml
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Helpers.xml
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Mvc.xml
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\obj\Debug\MbmStore.dll
+C:\Users\simon\Desktop\Projects\Mbm Store Solution\MbmStore\obj\Debug\MbmStore.pdb
+D:\Projects\Mbm Store Solution\MbmStore\bin\roslyn\csc.exe
+D:\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Mbm Store Solution\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Mbm Store Solution\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\roslyn\vbc.exe
+D:\Projects\Mbm Store Solution\MbmStore\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Mbm Store Solution\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Mbm Store Solution\MbmStore\bin\MbmStore.dll.config
+D:\Projects\Mbm Store Solution\MbmStore\bin\MbmStore.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\MbmStore.pdb
+D:\Projects\Mbm Store Solution\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Helpers.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Mvc.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Razor.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Mbm Store Solution\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Razor.xml
+D:\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.xml
+D:\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Helpers.xml
+D:\Projects\Mbm Store Solution\MbmStore\bin\System.Web.Mvc.xml
+D:\Projects\Mbm Store Solution\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+D:\Projects\Mbm Store Solution\MbmStore\obj\Debug\MbmStore.dll
+D:\Projects\Mbm Store Solution\MbmStore\obj\Debug\MbmStore.pdb

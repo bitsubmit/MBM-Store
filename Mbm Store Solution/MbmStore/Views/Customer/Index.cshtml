@@ -1,0 +1,60 @@
+﻿@using MbmStore.Models
+@{
+
+}
+<head>
+    <link rel="stylesheet" type="text/css" href="~/Content/css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/css/style.css" />
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <title>Customer</title>
+</head>
+
+
+<div class="wrapper">
+
+    @helper RenderCustomer(Customer customer)
+    {
+    <p>
+        @customer.Firstname  @customer.Lastname <br />
+        @customer.Address <br />
+        @customer.Zip @customer.City
+    </p>
+
+}
+
+    @helper RenderPhoneList(Customer customer)
+    {
+    <span>
+        @customer.Firstname  @customer.Lastname
+        (@string.Join(", ", customer.PhoneNumbers))
+    </span>
+}
+
+    <h2>Customers</h2>
+
+    <!-- example without use of the RenderCustomer view method
+        <p>
+            @ViewBag.C1.Firstname  @ViewBag.C1.Lastname <br />
+            @ViewBag.C1.Address <br />
+            @ViewBag.C1.Zip @ViewBag.C1.City
+        </p>
+
+        <p>
+            @ViewBag.C2.Firstname  @ViewBag.C2.Lastname <br />
+            @ViewBag.C2.Address <br />
+            @ViewBag.C2.Zip @ViewBag.C2.City
+        </p>
+    -->
+
+    @RenderCustomer(ViewBag.C1)
+    @RenderCustomer(ViewBag.C2)
+
+
+    <h2>Phone list</h2>
+    @RenderPhoneList(ViewBag.C1) <br />
+    @RenderPhoneList(ViewBag.C2)
+
+    <h2>Age example </h2>
+    <p>@ViewBag.C1.Firstname  @ViewBag.C1.Lastname is @ViewBag.C1.Age years old</p>
+</div>
